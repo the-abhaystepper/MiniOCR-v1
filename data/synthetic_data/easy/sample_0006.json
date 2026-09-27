@@ -1,0 +1,26 @@
+{
+  "text": "Qty: 3\nPhone: 555-0123",
+  "bounding_boxes": [
+    [
+      12,
+      86,
+      61,
+      102
+    ],
+    [
+      48,
+      112,
+      176,
+      124
+    ]
+  ],
+  "line_ids": [
+    0,
+    1
+  ],
+  "reading_order": [
+    0.0,
+    1.0
+  ],
+  "difficulty": "easy"
+}

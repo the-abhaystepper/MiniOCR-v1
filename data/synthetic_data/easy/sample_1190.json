@@ -1,0 +1,34 @@
+{
+  "text": "Total: $42.99\nPhone: 555-0123\nEmail: john@example.com",
+  "bounding_boxes": [
+    [
+      63,
+      76,
+      160,
+      92
+    ],
+    [
+      50,
+      100,
+      174,
+      113
+    ],
+    [
+      12,
+      124,
+      200,
+      140
+    ]
+  ],
+  "line_ids": [
+    0,
+    1,
+    2
+  ],
+  "reading_order": [
+    0.0,
+    0.5,
+    1.0
+  ],
+  "difficulty": "easy"
+}

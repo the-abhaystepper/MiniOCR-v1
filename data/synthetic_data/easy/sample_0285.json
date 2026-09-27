@@ -1,0 +1,42 @@
+{
+  "text": "Name: John Doe\nCity: Springfield\nPhone: 555-0123\nStatus: Complete",
+  "bounding_boxes": [
+    [
+      12,
+      60,
+      136,
+      72
+    ],
+    [
+      52,
+      86,
+      171,
+      101
+    ],
+    [
+      12,
+      112,
+      139,
+      124
+    ],
+    [
+      47,
+      138,
+      176,
+      153
+    ]
+  ],
+  "line_ids": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "reading_order": [
+    0.0,
+    0.3333333333333333,
+    0.6666666666666666,
+    1.0
+  ],
+  "difficulty": "easy"
+}

@@ -1,0 +1,42 @@
+{
+  "text": "Grand Total: $161.95\nItem: Widget Pro 100\nThank you for your business!\nSubtotal: $149.95",
+  "bounding_boxes": [
+    [
+      9,
+      12,
+      169,
+      26
+    ],
+    [
+      16,
+      34,
+      184,
+      55
+    ],
+    [
+      11,
+      56,
+      235,
+      70
+    ],
+    [
+      18,
+      81,
+      143,
+      97
+    ]
+  ],
+  "line_ids": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "reading_order": [
+    0.0,
+    0.3333333333333333,
+    0.6666666666666666,
+    1.0
+  ],
+  "difficulty": "medium"
+}

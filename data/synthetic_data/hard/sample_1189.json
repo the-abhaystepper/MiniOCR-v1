@@ -1,0 +1,26 @@
+{
+  "text": "Email: john@example.com\nAddress: 123 Main St",
+  "bounding_boxes": [
+    [
+      14,
+      86,
+      210,
+      101
+    ],
+    [
+      36,
+      112,
+      188,
+      124
+    ]
+  ],
+  "line_ids": [
+    0,
+    1
+  ],
+  "reading_order": [
+    0.0,
+    1.0
+  ],
+  "difficulty": "hard"
+}

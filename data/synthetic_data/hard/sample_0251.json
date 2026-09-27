@@ -1,0 +1,42 @@
+{
+  "text": "Status: Complete\nZip: 62701\nName: John Doe\nEmail: john@example.com",
+  "bounding_boxes": [
+    [
+      12,
+      60,
+      188,
+      74
+    ],
+    [
+      57,
+      86,
+      167,
+      101
+    ],
+    [
+      12,
+      112,
+      166,
+      123
+    ],
+    [
+      12,
+      138,
+      265,
+      153
+    ]
+  ],
+  "line_ids": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "reading_order": [
+    0.0,
+    0.3333333333333333,
+    0.6666666666666666,
+    1.0
+  ],
+  "difficulty": "hard"
+}

@@ -1,0 +1,42 @@
+{
+  "text": "Item: Widget A\nAddress: 123 Main St\nEmail: john@example.com\nDate: 2024-01-15",
+  "bounding_boxes": [
+    [
+      35,
+      56,
+      188,
+      76
+    ],
+    [
+      12,
+      84,
+      229,
+      100
+    ],
+    [
+      12,
+      112,
+      279,
+      132
+    ],
+    [
+      12,
+      140,
+      197,
+      155
+    ]
+  ],
+  "line_ids": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "reading_order": [
+    0.0,
+    0.3333333333333333,
+    0.6666666666666666,
+    1.0
+  ],
+  "difficulty": "hard"
+}

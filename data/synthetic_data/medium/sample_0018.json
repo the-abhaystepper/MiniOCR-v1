@@ -1,0 +1,50 @@
+{
+  "text": "Tax (8%): $12.00\nQty: 5  Price: $29.99\nInvoice #INV-2024-0042\nThank you for your business!\nGrand Total: $161.95",
+  "bounding_boxes": [
+    [
+      13,
+      12,
+      141,
+      26
+    ],
+    [
+      20,
+      36,
+      251,
+      54
+    ],
+    [
+      15,
+      62,
+      213,
+      74
+    ],
+    [
+      11,
+      85,
+      215,
+      103
+    ],
+    [
+      8,
+      106,
+      141,
+      122
+    ]
+  ],
+  "line_ids": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "reading_order": [
+    0.0,
+    0.25,
+    0.5,
+    0.75,
+    1.0
+  ],
+  "difficulty": "medium"
+}

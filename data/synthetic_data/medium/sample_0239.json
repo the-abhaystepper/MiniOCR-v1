@@ -1,0 +1,42 @@
+{
+  "text": "Invoice #INV-2024-0042\nGrand Total: $161.95\nCustomer: Acme Corp\nThank you for your business!",
+  "bounding_boxes": [
+    [
+      15,
+      12,
+      150,
+      23
+    ],
+    [
+      18,
+      34,
+      171,
+      54
+    ],
+    [
+      18,
+      60,
+      145,
+      74
+    ],
+    [
+      15,
+      78,
+      218,
+      94
+    ]
+  ],
+  "line_ids": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "reading_order": [
+    0.0,
+    0.3333333333333333,
+    0.6666666666666666,
+    1.0
+  ],
+  "difficulty": "medium"
+}

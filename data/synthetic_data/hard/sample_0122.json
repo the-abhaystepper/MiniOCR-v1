@@ -1,0 +1,42 @@
+{
+  "text": "Name: John Doe\nTotal: $42.99\nCity: Springfield\nAddress: 123 Main St",
+  "bounding_boxes": [
+    [
+      38,
+      56,
+      186,
+      72
+    ],
+    [
+      51,
+      84,
+      172,
+      103
+    ],
+    [
+      41,
+      112,
+      182,
+      132
+    ],
+    [
+      12,
+      140,
+      201,
+      156
+    ]
+  ],
+  "line_ids": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "reading_order": [
+    0.0,
+    0.3333333333333333,
+    0.6666666666666666,
+    1.0
+  ],
+  "difficulty": "hard"
+}

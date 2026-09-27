@@ -1,0 +1,42 @@
+{
+  "text": "Thank you for your business!\nGrand Total: $161.95\nInvoice #INV-2024-0042\nDate: March 15, 2024",
+  "bounding_boxes": [
+    [
+      17,
+      12,
+      218,
+      34
+    ],
+    [
+      12,
+      38,
+      182,
+      60
+    ],
+    [
+      8,
+      66,
+      192,
+      84
+    ],
+    [
+      9,
+      89,
+      140,
+      104
+    ]
+  ],
+  "line_ids": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "reading_order": [
+    0.0,
+    0.3333333333333333,
+    0.6666666666666666,
+    1.0
+  ],
+  "difficulty": "medium"
+}

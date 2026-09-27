@@ -1,0 +1,26 @@
+{
+  "text": "Status: Complete\nZip: 62701",
+  "bounding_boxes": [
+    [
+      40,
+      88,
+      184,
+      102
+    ],
+    [
+      67,
+      112,
+      157,
+      126
+    ]
+  ],
+  "line_ids": [
+    0,
+    1
+  ],
+  "reading_order": [
+    0.0,
+    1.0
+  ],
+  "difficulty": "easy"
+}

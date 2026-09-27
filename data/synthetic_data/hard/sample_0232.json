@@ -1,0 +1,26 @@
+{
+  "text": "ID: ABC-1234\nItem: Widget A",
+  "bounding_boxes": [
+    [
+      56,
+      86,
+      167,
+      99
+    ],
+    [
+      12,
+      112,
+      131,
+      129
+    ]
+  ],
+  "line_ids": [
+    0,
+    1
+  ],
+  "reading_order": [
+    0.0,
+    1.0
+  ],
+  "difficulty": "hard"
+}

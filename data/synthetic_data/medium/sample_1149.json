@@ -1,0 +1,50 @@
+{
+  "text": "Qty: 5  Price: $29.99\nSubtotal: $149.95\nDate: March 15, 2024\nInvoice #INV-2024-0042\nCustomer: Acme Corp",
+  "bounding_boxes": [
+    [
+      14,
+      12,
+      139,
+      31
+    ],
+    [
+      19,
+      37,
+      151,
+      53
+    ],
+    [
+      15,
+      62,
+      211,
+      84
+    ],
+    [
+      12,
+      91,
+      177,
+      106
+    ],
+    [
+      17,
+      111,
+      169,
+      126
+    ]
+  ],
+  "line_ids": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "reading_order": [
+    0.0,
+    0.25,
+    0.5,
+    0.75,
+    1.0
+  ],
+  "difficulty": "medium"
+}

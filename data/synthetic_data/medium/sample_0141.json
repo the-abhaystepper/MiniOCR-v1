@@ -1,0 +1,34 @@
+{
+  "text": "Thank you for your business!\nQty: 5  Price: $29.99\nCustomer: Acme Corp",
+  "bounding_boxes": [
+    [
+      11,
+      12,
+      319,
+      30
+    ],
+    [
+      18,
+      38,
+      153,
+      53
+    ],
+    [
+      18,
+      64,
+      219,
+      87
+    ]
+  ],
+  "line_ids": [
+    0,
+    1,
+    2
+  ],
+  "reading_order": [
+    0.0,
+    0.5,
+    1.0
+  ],
+  "difficulty": "medium"
+}

@@ -1,0 +1,34 @@
+{
+  "text": "Zip: 62701\nName: John Doe\nID: ABC-1234",
+  "bounding_boxes": [
+    [
+      12,
+      73,
+      95,
+      89
+    ],
+    [
+      12,
+      99,
+      141,
+      111
+    ],
+    [
+      12,
+      125,
+      123,
+      137
+    ]
+  ],
+  "line_ids": [
+    0,
+    1,
+    2
+  ],
+  "reading_order": [
+    0.0,
+    0.5,
+    1.0
+  ],
+  "difficulty": "hard"
+}

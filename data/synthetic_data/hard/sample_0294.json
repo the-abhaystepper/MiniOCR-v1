@@ -1,0 +1,34 @@
+{
+  "text": "Zip: 62701\nEmail: john@example.com\nCity: Springfield",
+  "bounding_boxes": [
+    [
+      12,
+      76,
+      90,
+      91
+    ],
+    [
+      12,
+      100,
+      214,
+      116
+    ],
+    [
+      51,
+      124,
+      173,
+      139
+    ]
+  ],
+  "line_ids": [
+    0,
+    1,
+    2
+  ],
+  "reading_order": [
+    0.0,
+    0.5,
+    1.0
+  ],
+  "difficulty": "hard"
+}

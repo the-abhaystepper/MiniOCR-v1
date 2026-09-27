@@ -1,0 +1,26 @@
+{
+  "text": "Zip: 62701\nTotal: $42.99",
+  "bounding_boxes": [
+    [
+      12,
+      84,
+      124,
+      103
+    ],
+    [
+      12,
+      112,
+      149,
+      131
+    ]
+  ],
+  "line_ids": [
+    0,
+    1
+  ],
+  "reading_order": [
+    0.0,
+    1.0
+  ],
+  "difficulty": "hard"
+}

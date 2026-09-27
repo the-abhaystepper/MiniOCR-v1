@@ -1,0 +1,34 @@
+{
+  "text": "Qty: 3\nTotal: $42.99\nEmail: john@example.com",
+  "bounding_boxes": [
+    [
+      12,
+      73,
+      63,
+      90
+    ],
+    [
+      57,
+      99,
+      166,
+      115
+    ],
+    [
+      12,
+      125,
+      241,
+      142
+    ]
+  ],
+  "line_ids": [
+    0,
+    1,
+    2
+  ],
+  "reading_order": [
+    0.0,
+    0.5,
+    1.0
+  ],
+  "difficulty": "hard"
+}

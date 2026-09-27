@@ -1,0 +1,26 @@
+{
+  "text": "Name: John Doe\nStatus: Complete",
+  "bounding_boxes": [
+    [
+      41,
+      88,
+      182,
+      98
+    ],
+    [
+      12,
+      112,
+      172,
+      125
+    ]
+  ],
+  "line_ids": [
+    0,
+    1
+  ],
+  "reading_order": [
+    0.0,
+    1.0
+  ],
+  "difficulty": "hard"
+}

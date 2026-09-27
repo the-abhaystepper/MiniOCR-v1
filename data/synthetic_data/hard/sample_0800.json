@@ -1,0 +1,34 @@
+{
+  "text": "Address: 123 Main St\nZip: 62701\nName: John Doe",
+  "bounding_boxes": [
+    [
+      35,
+      76,
+      189,
+      88
+    ],
+    [
+      74,
+      100,
+      150,
+      115
+    ],
+    [
+      52,
+      124,
+      172,
+      136
+    ]
+  ],
+  "line_ids": [
+    0,
+    1,
+    2
+  ],
+  "reading_order": [
+    0.0,
+    0.5,
+    1.0
+  ],
+  "difficulty": "hard"
+}

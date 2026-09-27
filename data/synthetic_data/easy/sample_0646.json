@@ -1,0 +1,26 @@
+{
+  "text": "Address: 123 Main St\nPhone: 555-0123",
+  "bounding_boxes": [
+    [
+      12,
+      84,
+      232,
+      99
+    ],
+    [
+      29,
+      112,
+      194,
+      126
+    ]
+  ],
+  "line_ids": [
+    0,
+    1
+  ],
+  "reading_order": [
+    0.0,
+    1.0
+  ],
+  "difficulty": "easy"
+}

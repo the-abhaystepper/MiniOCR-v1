@@ -1,0 +1,34 @@
+{
+  "text": "Email: john@example.com\nTotal: $42.99\nID: ABC-1234",
+  "bounding_boxes": [
+    [
+      12,
+      70,
+      235,
+      88
+    ],
+    [
+      12,
+      98,
+      120,
+      115
+    ],
+    [
+      58,
+      126,
+      165,
+      139
+    ]
+  ],
+  "line_ids": [
+    0,
+    1,
+    2
+  ],
+  "reading_order": [
+    0.0,
+    0.5,
+    1.0
+  ],
+  "difficulty": "easy"
+}

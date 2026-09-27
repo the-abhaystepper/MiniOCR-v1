@@ -1,0 +1,42 @@
+{
+  "text": "Customer: Acme Corp\nQty: 5  Price: $29.99\nThank you for your business!\nItem: Widget Pro 100",
+  "bounding_boxes": [
+    [
+      9,
+      12,
+      152,
+      30
+    ],
+    [
+      9,
+      38,
+      135,
+      54
+    ],
+    [
+      18,
+      58,
+      185,
+      74
+    ],
+    [
+      13,
+      83,
+      161,
+      101
+    ]
+  ],
+  "line_ids": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "reading_order": [
+    0.0,
+    0.3333333333333333,
+    0.6666666666666666,
+    1.0
+  ],
+  "difficulty": "medium"
+}

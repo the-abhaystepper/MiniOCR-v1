@@ -1,0 +1,42 @@
+{
+  "text": "Qty: 5  Price: $29.99\nThank you for your business!\nCustomer: Acme Corp\nTax (8%): $12.00",
+  "bounding_boxes": [
+    [
+      17,
+      12,
+      183,
+      35
+    ],
+    [
+      14,
+      36,
+      192,
+      52
+    ],
+    [
+      8,
+      55,
+      161,
+      70
+    ],
+    [
+      9,
+      77,
+      137,
+      91
+    ]
+  ],
+  "line_ids": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "reading_order": [
+    0.0,
+    0.3333333333333333,
+    0.6666666666666666,
+    1.0
+  ],
+  "difficulty": "medium"
+}

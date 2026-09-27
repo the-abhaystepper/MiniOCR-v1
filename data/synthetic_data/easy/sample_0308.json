@@ -1,0 +1,26 @@
+{
+  "text": "Item: Widget A\nDate: 2024-01-15",
+  "bounding_boxes": [
+    [
+      12,
+      84,
+      166,
+      103
+    ],
+    [
+      12,
+      112,
+      188,
+      125
+    ]
+  ],
+  "line_ids": [
+    0,
+    1
+  ],
+  "reading_order": [
+    0.0,
+    1.0
+  ],
+  "difficulty": "easy"
+}

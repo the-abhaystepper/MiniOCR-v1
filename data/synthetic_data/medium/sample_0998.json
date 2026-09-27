@@ -1,0 +1,42 @@
+{
+  "text": "Invoice #INV-2024-0042\nGrand Total: $161.95\nQty: 5  Price: $29.99\nThank you for your business!",
+  "bounding_boxes": [
+    [
+      17,
+      12,
+      193,
+      24
+    ],
+    [
+      17,
+      28,
+      217,
+      44
+    ],
+    [
+      15,
+      52,
+      225,
+      69
+    ],
+    [
+      8,
+      77,
+      232,
+      91
+    ]
+  ],
+  "line_ids": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "reading_order": [
+    0.0,
+    0.3333333333333333,
+    0.6666666666666666,
+    1.0
+  ],
+  "difficulty": "medium"
+}

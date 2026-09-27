@@ -1,0 +1,18 @@
+{
+  "text": "ABC123 XYZ789",
+  "bounding_boxes": [
+    [
+      8,
+      102,
+      242,
+      122
+    ]
+  ],
+  "line_ids": [
+    0
+  ],
+  "reading_order": [
+    0.5
+  ],
+  "difficulty": "easy"
+}

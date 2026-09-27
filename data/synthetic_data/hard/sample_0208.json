@@ -1,0 +1,42 @@
+{
+  "text": "Email: john@example.com\nCity: Springfield\nAddress: 123 Main St\nDate: 2024-01-15",
+  "bounding_boxes": [
+    [
+      12,
+      64,
+      195,
+      79
+    ],
+    [
+      55,
+      88,
+      168,
+      102
+    ],
+    [
+      38,
+      112,
+      186,
+      123
+    ],
+    [
+      54,
+      136,
+      169,
+      147
+    ]
+  ],
+  "line_ids": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "reading_order": [
+    0.0,
+    0.3333333333333333,
+    0.6666666666666666,
+    1.0
+  ],
+  "difficulty": "hard"
+}

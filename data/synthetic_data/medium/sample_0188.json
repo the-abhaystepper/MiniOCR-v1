@@ -1,0 +1,34 @@
+{
+  "text": "Grand Total: $161.95\nQty: 5  Price: $29.99\nThank you for your business!",
+  "bounding_boxes": [
+    [
+      14,
+      12,
+      156,
+      26
+    ],
+    [
+      17,
+      30,
+      166,
+      48
+    ],
+    [
+      10,
+      56,
+      234,
+      71
+    ]
+  ],
+  "line_ids": [
+    0,
+    1,
+    2
+  ],
+  "reading_order": [
+    0.0,
+    0.5,
+    1.0
+  ],
+  "difficulty": "medium"
+}

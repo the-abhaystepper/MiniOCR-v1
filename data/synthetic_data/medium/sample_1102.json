@@ -1,0 +1,42 @@
+{
+  "text": "Item: Widget Pro 100\nDate: March 15, 2024\nThank you for your business!\nTax (8%): $12.00",
+  "bounding_boxes": [
+    [
+      9,
+      12,
+      156,
+      34
+    ],
+    [
+      17,
+      35,
+      217,
+      52
+    ],
+    [
+      11,
+      56,
+      214,
+      72
+    ],
+    [
+      10,
+      76,
+      119,
+      91
+    ]
+  ],
+  "line_ids": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "reading_order": [
+    0.0,
+    0.3333333333333333,
+    0.6666666666666666,
+    1.0
+  ],
+  "difficulty": "medium"
+}

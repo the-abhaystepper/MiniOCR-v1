@@ -1,0 +1,50 @@
+{
+  "text": "Grand Total: $161.95\nSubtotal: $149.95\nThank you for your business!\nTax (8%): $12.00\nQty: 5  Price: $29.99",
+  "bounding_boxes": [
+    [
+      11,
+      12,
+      231,
+      29
+    ],
+    [
+      15,
+      36,
+      163,
+      55
+    ],
+    [
+      11,
+      58,
+      217,
+      78
+    ],
+    [
+      8,
+      86,
+      129,
+      104
+    ],
+    [
+      14,
+      110,
+      149,
+      125
+    ]
+  ],
+  "line_ids": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "reading_order": [
+    0.0,
+    0.25,
+    0.5,
+    0.75,
+    1.0
+  ],
+  "difficulty": "medium"
+}

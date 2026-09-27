@@ -1,0 +1,18 @@
+{
+  "text": "The quick brown fox",
+  "bounding_boxes": [
+    [
+      23,
+      103,
+      201,
+      120
+    ]
+  ],
+  "line_ids": [
+    0
+  ],
+  "reading_order": [
+    0.5
+  ],
+  "difficulty": "easy"
+}

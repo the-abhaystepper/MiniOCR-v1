@@ -1,0 +1,50 @@
+{
+  "text": "Date: March 15, 2024\nThank you for your business!\nCustomer: Acme Corp\nItem: Widget Pro 100\nQty: 5  Price: $29.99",
+  "bounding_boxes": [
+    [
+      9,
+      12,
+      169,
+      32
+    ],
+    [
+      17,
+      34,
+      241,
+      49
+    ],
+    [
+      13,
+      54,
+      160,
+      69
+    ],
+    [
+      12,
+      74,
+      181,
+      95
+    ],
+    [
+      14,
+      97,
+      161,
+      114
+    ]
+  ],
+  "line_ids": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "reading_order": [
+    0.0,
+    0.25,
+    0.5,
+    0.75,
+    1.0
+  ],
+  "difficulty": "medium"
+}

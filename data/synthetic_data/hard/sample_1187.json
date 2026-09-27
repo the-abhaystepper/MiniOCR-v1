@@ -1,0 +1,26 @@
+{
+  "text": "City: Springfield\nName: John Doe",
+  "bounding_boxes": [
+    [
+      12,
+      86,
+      131,
+      101
+    ],
+    [
+      50,
+      112,
+      174,
+      124
+    ]
+  ],
+  "line_ids": [
+    0,
+    1
+  ],
+  "reading_order": [
+    0.0,
+    1.0
+  ],
+  "difficulty": "hard"
+}

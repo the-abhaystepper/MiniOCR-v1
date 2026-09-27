@@ -1,0 +1,26 @@
+{
+  "text": "Address: 123 Main St\nStatus: Complete",
+  "bounding_boxes": [
+    [
+      12,
+      86,
+      232,
+      98
+    ],
+    [
+      24,
+      112,
+      200,
+      126
+    ]
+  ],
+  "line_ids": [
+    0,
+    1
+  ],
+  "reading_order": [
+    0.0,
+    1.0
+  ],
+  "difficulty": "hard"
+}

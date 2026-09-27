@@ -1,0 +1,42 @@
+{
+  "text": "Email: john@example.com\nStatus: Complete\nCity: Springfield\nName: John Doe",
+  "bounding_boxes": [
+    [
+      12,
+      56,
+      236,
+      74
+    ],
+    [
+      12,
+      84,
+      156,
+      102
+    ],
+    [
+      12,
+      112,
+      144,
+      130
+    ],
+    [
+      12,
+      140,
+      151,
+      154
+    ]
+  ],
+  "line_ids": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "reading_order": [
+    0.0,
+    0.3333333333333333,
+    0.6666666666666666,
+    1.0
+  ],
+  "difficulty": "hard"
+}

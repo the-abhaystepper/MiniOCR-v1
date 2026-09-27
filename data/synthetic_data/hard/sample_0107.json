@@ -1,0 +1,26 @@
+{
+  "text": "Phone: 555-0123\nID: ABC-1234",
+  "bounding_boxes": [
+    [
+      33,
+      84,
+      190,
+      99
+    ],
+    [
+      12,
+      112,
+      138,
+      127
+    ]
+  ],
+  "line_ids": [
+    0,
+    1
+  ],
+  "reading_order": [
+    0.0,
+    1.0
+  ],
+  "difficulty": "hard"
+}

@@ -1,0 +1,50 @@
+{
+  "text": "Tax (8%): $12.00\nSubtotal: $149.95\nThank you for your business!\nInvoice #INV-2024-0042\nCustomer: Acme Corp",
+  "bounding_boxes": [
+    [
+      9,
+      12,
+      144,
+      33
+    ],
+    [
+      20,
+      37,
+      149,
+      53
+    ],
+    [
+      15,
+      60,
+      239,
+      75
+    ],
+    [
+      12,
+      80,
+      177,
+      95
+    ],
+    [
+      11,
+      102,
+      152,
+      118
+    ]
+  ],
+  "line_ids": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "reading_order": [
+    0.0,
+    0.25,
+    0.5,
+    0.75,
+    1.0
+  ],
+  "difficulty": "medium"
+}

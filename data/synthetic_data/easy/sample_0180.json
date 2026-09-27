@@ -1,0 +1,26 @@
+{
+  "text": "City: Springfield\nTotal: $42.99",
+  "bounding_boxes": [
+    [
+      49,
+      86,
+      174,
+      104
+    ],
+    [
+      12,
+      112,
+      114,
+      129
+    ]
+  ],
+  "line_ids": [
+    0,
+    1
+  ],
+  "reading_order": [
+    0.0,
+    1.0
+  ],
+  "difficulty": "easy"
+}

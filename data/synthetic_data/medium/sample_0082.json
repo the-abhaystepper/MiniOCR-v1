@@ -1,0 +1,42 @@
+{
+  "text": "Thank you for your business!\nSubtotal: $149.95\nQty: 5  Price: $29.99\nDate: March 15, 2024",
+  "bounding_boxes": [
+    [
+      16,
+      12,
+      296,
+      29
+    ],
+    [
+      14,
+      31,
+      132,
+      47
+    ],
+    [
+      12,
+      53,
+      243,
+      71
+    ],
+    [
+      9,
+      76,
+      157,
+      96
+    ]
+  ],
+  "line_ids": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "reading_order": [
+    0.0,
+    0.3333333333333333,
+    0.6666666666666666,
+    1.0
+  ],
+  "difficulty": "medium"
+}

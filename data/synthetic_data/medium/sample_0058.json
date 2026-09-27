@@ -1,0 +1,42 @@
+{
+  "text": "Customer: Acme Corp\nSubtotal: $149.95\nThank you for your business!\nDate: March 15, 2024",
+  "bounding_boxes": [
+    [
+      12,
+      12,
+      159,
+      27
+    ],
+    [
+      10,
+      31,
+      129,
+      45
+    ],
+    [
+      8,
+      49,
+      260,
+      64
+    ],
+    [
+      14,
+      69,
+      174,
+      82
+    ]
+  ],
+  "line_ids": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "reading_order": [
+    0.0,
+    0.3333333333333333,
+    0.6666666666666666,
+    1.0
+  ],
+  "difficulty": "medium"
+}

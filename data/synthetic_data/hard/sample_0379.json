@@ -1,0 +1,42 @@
+{
+  "text": "Total: $42.99\nStatus: Complete\nName: John Doe\nItem: Widget A",
+  "bounding_boxes": [
+    [
+      12,
+      56,
+      155,
+      73
+    ],
+    [
+      24,
+      84,
+      200,
+      102
+    ],
+    [
+      12,
+      112,
+      166,
+      126
+    ],
+    [
+      12,
+      140,
+      166,
+      159
+    ]
+  ],
+  "line_ids": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "reading_order": [
+    0.0,
+    0.3333333333333333,
+    0.6666666666666666,
+    1.0
+  ],
+  "difficulty": "hard"
+}

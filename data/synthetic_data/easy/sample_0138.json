@@ -1,0 +1,26 @@
+{
+  "text": "Address: 123 Main St\nID: ABC-1234",
+  "bounding_boxes": [
+    [
+      43,
+      88,
+      180,
+      99
+    ],
+    [
+      12,
+      112,
+      98,
+      122
+    ]
+  ],
+  "line_ids": [
+    0,
+    1
+  ],
+  "reading_order": [
+    0.0,
+    1.0
+  ],
+  "difficulty": "easy"
+}

@@ -1,0 +1,50 @@
+{
+  "text": "Subtotal: $149.95\nCustomer: Acme Corp\nQty: 5  Price: $29.99\nThank you for your business!\nGrand Total: $161.95",
+  "bounding_boxes": [
+    [
+      16,
+      12,
+      151,
+      30
+    ],
+    [
+      16,
+      38,
+      206,
+      55
+    ],
+    [
+      15,
+      63,
+      164,
+      81
+    ],
+    [
+      10,
+      89,
+      213,
+      105
+    ],
+    [
+      20,
+      113,
+      187,
+      131
+    ]
+  ],
+  "line_ids": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "reading_order": [
+    0.0,
+    0.25,
+    0.5,
+    0.75,
+    1.0
+  ],
+  "difficulty": "medium"
+}

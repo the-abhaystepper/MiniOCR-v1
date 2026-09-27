@@ -1,0 +1,34 @@
+{
+  "text": "Name: John Doe\nZip: 62701\nEmail: john@example.com",
+  "bounding_boxes": [
+    [
+      12,
+      73,
+      147,
+      86
+    ],
+    [
+      12,
+      99,
+      97,
+      116
+    ],
+    [
+      12,
+      125,
+      226,
+      142
+    ]
+  ],
+  "line_ids": [
+    0,
+    1,
+    2
+  ],
+  "reading_order": [
+    0.0,
+    0.5,
+    1.0
+  ],
+  "difficulty": "hard"
+}

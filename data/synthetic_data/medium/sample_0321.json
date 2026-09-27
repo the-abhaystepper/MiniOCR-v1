@@ -1,0 +1,42 @@
+{
+  "text": "Invoice #INV-2024-0042\nSubtotal: $149.95\nThank you for your business!\nDate: March 15, 2024",
+  "bounding_boxes": [
+    [
+      15,
+      12,
+      192,
+      27
+    ],
+    [
+      17,
+      36,
+      130,
+      50
+    ],
+    [
+      18,
+      59,
+      242,
+      74
+    ],
+    [
+      16,
+      79,
+      160,
+      93
+    ]
+  ],
+  "line_ids": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "reading_order": [
+    0.0,
+    0.3333333333333333,
+    0.6666666666666666,
+    1.0
+  ],
+  "difficulty": "medium"
+}

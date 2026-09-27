@@ -1,0 +1,26 @@
+{
+  "text": "Total: $42.99\nAddress: 123 Main St",
+  "bounding_boxes": [
+    [
+      57,
+      88,
+      166,
+      104
+    ],
+    [
+      25,
+      112,
+      198,
+      125
+    ]
+  ],
+  "line_ids": [
+    0,
+    1
+  ],
+  "reading_order": [
+    0.0,
+    1.0
+  ],
+  "difficulty": "hard"
+}

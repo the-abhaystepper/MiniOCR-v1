@@ -1,0 +1,34 @@
+{
+  "text": "Thank you for your business!\nCustomer: Acme Corp\nItem: Widget Pro 100",
+  "bounding_boxes": [
+    [
+      16,
+      12,
+      193,
+      31
+    ],
+    [
+      14,
+      34,
+      148,
+      51
+    ],
+    [
+      8,
+      54,
+      149,
+      70
+    ]
+  ],
+  "line_ids": [
+    0,
+    1,
+    2
+  ],
+  "reading_order": [
+    0.0,
+    0.5,
+    1.0
+  ],
+  "difficulty": "medium"
+}

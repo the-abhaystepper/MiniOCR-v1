@@ -1,0 +1,26 @@
+{
+  "text": "Address: 123 Main St\nCity: Springfield",
+  "bounding_boxes": [
+    [
+      42,
+      88,
+      181,
+      99
+    ],
+    [
+      12,
+      112,
+      118,
+      126
+    ]
+  ],
+  "line_ids": [
+    0,
+    1
+  ],
+  "reading_order": [
+    0.0,
+    1.0
+  ],
+  "difficulty": "hard"
+}

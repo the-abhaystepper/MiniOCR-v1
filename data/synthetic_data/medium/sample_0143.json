@@ -1,0 +1,50 @@
+{
+  "text": "Subtotal: $149.95\nThank you for your business!\nTax (8%): $12.00\nGrand Total: $161.95\nDate: March 15, 2024",
+  "bounding_boxes": [
+    [
+      11,
+      12,
+      140,
+      30
+    ],
+    [
+      11,
+      36,
+      209,
+      51
+    ],
+    [
+      20,
+      61,
+      164,
+      76
+    ],
+    [
+      15,
+      82,
+      138,
+      95
+    ],
+    [
+      16,
+      101,
+      151,
+      117
+    ]
+  ],
+  "line_ids": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "reading_order": [
+    0.0,
+    0.25,
+    0.5,
+    0.75,
+    1.0
+  ],
+  "difficulty": "medium"
+}

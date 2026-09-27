@@ -1,0 +1,42 @@
+{
+  "text": "Thank you for your business!\nItem: Widget Pro 100\nDate: March 15, 2024\nInvoice #INV-2024-0042",
+  "bounding_boxes": [
+    [
+      16,
+      12,
+      244,
+      33
+    ],
+    [
+      20,
+      37,
+      176,
+      55
+    ],
+    [
+      17,
+      59,
+      141,
+      74
+    ],
+    [
+      10,
+      77,
+      164,
+      93
+    ]
+  ],
+  "line_ids": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "reading_order": [
+    0.0,
+    0.3333333333333333,
+    0.6666666666666666,
+    1.0
+  ],
+  "difficulty": "medium"
+}

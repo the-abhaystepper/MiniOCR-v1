@@ -1,0 +1,26 @@
+{
+  "text": "Total: $42.99\nItem: Widget A",
+  "bounding_boxes": [
+    [
+      53,
+      84,
+      170,
+      102
+    ],
+    [
+      45,
+      112,
+      179,
+      131
+    ]
+  ],
+  "line_ids": [
+    0,
+    1
+  ],
+  "reading_order": [
+    0.0,
+    1.0
+  ],
+  "difficulty": "hard"
+}

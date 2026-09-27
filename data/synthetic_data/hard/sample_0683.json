@@ -1,0 +1,34 @@
+{
+  "text": "Address: 123 Main St\nPhone: 555-0123\nName: John Doe",
+  "bounding_boxes": [
+    [
+      12,
+      76,
+      213,
+      86
+    ],
+    [
+      37,
+      100,
+      187,
+      110
+    ],
+    [
+      41,
+      124,
+      182,
+      134
+    ]
+  ],
+  "line_ids": [
+    0,
+    1,
+    2
+  ],
+  "reading_order": [
+    0.0,
+    0.5,
+    1.0
+  ],
+  "difficulty": "hard"
+}

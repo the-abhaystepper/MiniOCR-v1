@@ -1,0 +1,26 @@
+{
+  "text": "City: Springfield\nItem: Widget A",
+  "bounding_boxes": [
+    [
+      35,
+      88,
+      188,
+      102
+    ],
+    [
+      12,
+      112,
+      138,
+      126
+    ]
+  ],
+  "line_ids": [
+    0,
+    1
+  ],
+  "reading_order": [
+    0.0,
+    1.0
+  ],
+  "difficulty": "easy"
+}

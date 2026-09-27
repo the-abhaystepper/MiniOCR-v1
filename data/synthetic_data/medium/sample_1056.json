@@ -1,0 +1,42 @@
+{
+  "text": "Thank you for your business!\nCustomer: Acme Corp\nTax (8%): $12.00\nSubtotal: $149.95",
+  "bounding_boxes": [
+    [
+      16,
+      12,
+      240,
+      27
+    ],
+    [
+      9,
+      30,
+      162,
+      45
+    ],
+    [
+      13,
+      52,
+      141,
+      66
+    ],
+    [
+      17,
+      74,
+      153,
+      87
+    ]
+  ],
+  "line_ids": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "reading_order": [
+    0.0,
+    0.3333333333333333,
+    0.6666666666666666,
+    1.0
+  ],
+  "difficulty": "medium"
+}

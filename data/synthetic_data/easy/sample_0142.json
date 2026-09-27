@@ -1,0 +1,42 @@
+{
+  "text": "Address: 123 Main St\nID: ABC-1234\nItem: Widget A\nEmail: john@example.com",
+  "bounding_boxes": [
+    [
+      12,
+      60,
+      233,
+      72
+    ],
+    [
+      46,
+      86,
+      178,
+      98
+    ],
+    [
+      34,
+      112,
+      189,
+      126
+    ],
+    [
+      12,
+      138,
+      266,
+      152
+    ]
+  ],
+  "line_ids": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "reading_order": [
+    0.0,
+    0.3333333333333333,
+    0.6666666666666666,
+    1.0
+  ],
+  "difficulty": "easy"
+}

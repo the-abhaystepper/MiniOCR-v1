@@ -1,0 +1,42 @@
+{
+  "text": "Qty: 5  Price: $29.99\nThank you for your business!\nSubtotal: $149.95\nInvoice #INV-2024-0042",
+  "bounding_boxes": [
+    [
+      19,
+      12,
+      229,
+      29
+    ],
+    [
+      14,
+      38,
+      214,
+      56
+    ],
+    [
+      18,
+      63,
+      149,
+      79
+    ],
+    [
+      8,
+      87,
+      184,
+      98
+    ]
+  ],
+  "line_ids": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "reading_order": [
+    0.0,
+    0.3333333333333333,
+    0.6666666666666666,
+    1.0
+  ],
+  "difficulty": "medium"
+}

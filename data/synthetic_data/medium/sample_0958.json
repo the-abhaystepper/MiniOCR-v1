@@ -1,0 +1,42 @@
+{
+  "text": "Date: March 15, 2024\nGrand Total: $161.95\nCustomer: Acme Corp\nThank you for your business!",
+  "bounding_boxes": [
+    [
+      11,
+      12,
+      136,
+      25
+    ],
+    [
+      17,
+      33,
+      217,
+      49
+    ],
+    [
+      12,
+      58,
+      139,
+      72
+    ],
+    [
+      11,
+      79,
+      319,
+      97
+    ]
+  ],
+  "line_ids": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "reading_order": [
+    0.0,
+    0.3333333333333333,
+    0.6666666666666666,
+    1.0
+  ],
+  "difficulty": "medium"
+}

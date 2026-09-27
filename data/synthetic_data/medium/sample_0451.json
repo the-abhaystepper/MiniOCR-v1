@@ -1,0 +1,34 @@
+{
+  "text": "Tax (8%): $12.00\nInvoice #INV-2024-0042\nGrand Total: $161.95",
+  "bounding_boxes": [
+    [
+      13,
+      12,
+      127,
+      33
+    ],
+    [
+      8,
+      37,
+      228,
+      52
+    ],
+    [
+      9,
+      60,
+      209,
+      76
+    ]
+  ],
+  "line_ids": [
+    0,
+    1,
+    2
+  ],
+  "reading_order": [
+    0.0,
+    0.5,
+    1.0
+  ],
+  "difficulty": "medium"
+}

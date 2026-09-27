@@ -1,0 +1,18 @@
+{
+  "text": "Machine Learning",
+  "bounding_boxes": [
+    [
+      18,
+      101,
+      205,
+      123
+    ]
+  ],
+  "line_ids": [
+    0
+  ],
+  "reading_order": [
+    0.5
+  ],
+  "difficulty": "easy"
+}

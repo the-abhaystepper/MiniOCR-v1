@@ -1,0 +1,50 @@
+{
+  "text": "Qty: 5  Price: $29.99\nTax (8%): $12.00\nCustomer: Acme Corp\nItem: Widget Pro 100\nDate: March 15, 2024",
+  "bounding_boxes": [
+    [
+      10,
+      12,
+      241,
+      30
+    ],
+    [
+      20,
+      37,
+      148,
+      51
+    ],
+    [
+      10,
+      56,
+      175,
+      73
+    ],
+    [
+      14,
+      76,
+      182,
+      97
+    ],
+    [
+      15,
+      104,
+      193,
+      124
+    ]
+  ],
+  "line_ids": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "reading_order": [
+    0.0,
+    0.25,
+    0.5,
+    0.75,
+    1.0
+  ],
+  "difficulty": "medium"
+}

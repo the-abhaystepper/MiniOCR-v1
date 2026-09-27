@@ -1,0 +1,42 @@
+{
+  "text": "Phone: 555-0123\nName: John Doe\nCity: Springfield\nEmail: john@example.com",
+  "bounding_boxes": [
+    [
+      12,
+      56,
+      192,
+      69
+    ],
+    [
+      12,
+      84,
+      181,
+      97
+    ],
+    [
+      12,
+      112,
+      217,
+      129
+    ],
+    [
+      12,
+      140,
+      289,
+      157
+    ]
+  ],
+  "line_ids": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "reading_order": [
+    0.0,
+    0.3333333333333333,
+    0.6666666666666666,
+    1.0
+  ],
+  "difficulty": "hard"
+}

@@ -1,0 +1,34 @@
+{
+  "text": "ID: ABC-1234\nCity: Springfield\nZip: 62701",
+  "bounding_boxes": [
+    [
+      12,
+      76,
+      98,
+      86
+    ],
+    [
+      12,
+      100,
+      114,
+      114
+    ],
+    [
+      78,
+      124,
+      146,
+      137
+    ]
+  ],
+  "line_ids": [
+    0,
+    1,
+    2
+  ],
+  "reading_order": [
+    0.0,
+    0.5,
+    1.0
+  ],
+  "difficulty": "hard"
+}

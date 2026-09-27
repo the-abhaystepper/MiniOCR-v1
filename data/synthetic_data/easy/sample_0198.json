@@ -1,0 +1,34 @@
+{
+  "text": "Phone: 555-0123\nItem: Widget A\nEmail: john@example.com",
+  "bounding_boxes": [
+    [
+      41,
+      70,
+      182,
+      84
+    ],
+    [
+      49,
+      98,
+      175,
+      116
+    ],
+    [
+      12,
+      126,
+      236,
+      144
+    ]
+  ],
+  "line_ids": [
+    0,
+    1,
+    2
+  ],
+  "reading_order": [
+    0.0,
+    0.5,
+    1.0
+  ],
+  "difficulty": "easy"
+}

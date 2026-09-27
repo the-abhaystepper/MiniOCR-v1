@@ -1,0 +1,42 @@
+{
+  "text": "ID: ABC-1234\nStatus: Complete\nCity: Springfield\nItem: Widget A",
+  "bounding_boxes": [
+    [
+      69,
+      64,
+      155,
+      74
+    ],
+    [
+      57,
+      88,
+      167,
+      102
+    ],
+    [
+      12,
+      112,
+      114,
+      126
+    ],
+    [
+      12,
+      136,
+      109,
+      150
+    ]
+  ],
+  "line_ids": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "reading_order": [
+    0.0,
+    0.3333333333333333,
+    0.6666666666666666,
+    1.0
+  ],
+  "difficulty": "hard"
+}

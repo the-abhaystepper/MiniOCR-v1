@@ -1,0 +1,18 @@
+{
+  "text": "MiniOCR 2024",
+  "bounding_boxes": [
+    [
+      28,
+      103,
+      196,
+      120
+    ]
+  ],
+  "line_ids": [
+    0
+  ],
+  "reading_order": [
+    0.5
+  ],
+  "difficulty": "easy"
+}

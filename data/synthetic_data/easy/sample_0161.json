@@ -1,0 +1,18 @@
+{
+  "text": "Simple Text Line",
+  "bounding_boxes": [
+    [
+      8,
+      99,
+      312,
+      125
+    ]
+  ],
+  "line_ids": [
+    0
+  ],
+  "reading_order": [
+    0.5
+  ],
+  "difficulty": "easy"
+}

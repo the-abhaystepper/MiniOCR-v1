@@ -1,0 +1,50 @@
+{
+  "text": "Item: Widget Pro 100\nGrand Total: $161.95\nInvoice #INV-2024-0042\nTax (8%): $12.00\nThank you for your business!",
+  "bounding_boxes": [
+    [
+      11,
+      12,
+      143,
+      28
+    ],
+    [
+      19,
+      31,
+      175,
+      47
+    ],
+    [
+      8,
+      55,
+      250,
+      71
+    ],
+    [
+      9,
+      77,
+      153,
+      100
+    ],
+    [
+      13,
+      106,
+      211,
+      121
+    ]
+  ],
+  "line_ids": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "reading_order": [
+    0.0,
+    0.25,
+    0.5,
+    0.75,
+    1.0
+  ],
+  "difficulty": "medium"
+}

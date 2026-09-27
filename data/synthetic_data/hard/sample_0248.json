@@ -1,0 +1,34 @@
+{
+  "text": "Address: 123 Main St\nZip: 62701\nID: ABC-1234",
+  "bounding_boxes": [
+    [
+      12,
+      76,
+      149,
+      87
+    ],
+    [
+      12,
+      100,
+      80,
+      113
+    ],
+    [
+      12,
+      124,
+      98,
+      134
+    ]
+  ],
+  "line_ids": [
+    0,
+    1,
+    2
+  ],
+  "reading_order": [
+    0.0,
+    0.5,
+    1.0
+  ],
+  "difficulty": "hard"
+}

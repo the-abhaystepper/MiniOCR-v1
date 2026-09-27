@@ -1,0 +1,34 @@
+{
+  "text": "Address: 123 Main St\nCity: Springfield\nPhone: 555-0123",
+  "bounding_boxes": [
+    [
+      40,
+      76,
+      183,
+      87
+    ],
+    [
+      12,
+      100,
+      120,
+      114
+    ],
+    [
+      12,
+      124,
+      125,
+      135
+    ]
+  ],
+  "line_ids": [
+    0,
+    1,
+    2
+  ],
+  "reading_order": [
+    0.0,
+    0.5,
+    1.0
+  ],
+  "difficulty": "hard"
+}

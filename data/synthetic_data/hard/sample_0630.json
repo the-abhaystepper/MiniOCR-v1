@@ -1,0 +1,34 @@
+{
+  "text": "Zip: 62701\nName: John Doe\nCity: Springfield",
+  "bounding_boxes": [
+    [
+      62,
+      76,
+      162,
+      90
+    ],
+    [
+      12,
+      100,
+      152,
+      110
+    ],
+    [
+      12,
+      124,
+      182,
+      138
+    ]
+  ],
+  "line_ids": [
+    0,
+    1,
+    2
+  ],
+  "reading_order": [
+    0.0,
+    0.5,
+    1.0
+  ],
+  "difficulty": "hard"
+}

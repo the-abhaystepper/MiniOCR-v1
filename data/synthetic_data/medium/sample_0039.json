@@ -1,0 +1,34 @@
+{
+  "text": "Invoice #INV-2024-0042\nCustomer: Acme Corp\nItem: Widget Pro 100",
+  "bounding_boxes": [
+    [
+      8,
+      12,
+      184,
+      23
+    ],
+    [
+      14,
+      30,
+      164,
+      46
+    ],
+    [
+      17,
+      49,
+      189,
+      72
+    ]
+  ],
+  "line_ids": [
+    0,
+    1,
+    2
+  ],
+  "reading_order": [
+    0.0,
+    0.5,
+    1.0
+  ],
+  "difficulty": "medium"
+}

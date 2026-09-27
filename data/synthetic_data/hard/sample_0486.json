@@ -1,0 +1,34 @@
+{
+  "text": "Email: john@example.com\nItem: Widget A\nStatus: Complete",
+  "bounding_boxes": [
+    [
+      12,
+      73,
+      215,
+      88
+    ],
+    [
+      55,
+      99,
+      168,
+      114
+    ],
+    [
+      47,
+      125,
+      176,
+      140
+    ]
+  ],
+  "line_ids": [
+    0,
+    1,
+    2
+  ],
+  "reading_order": [
+    0.0,
+    0.5,
+    1.0
+  ],
+  "difficulty": "hard"
+}

@@ -1,0 +1,18 @@
+{
+  "text": "PYTHON ROCKS",
+  "bounding_boxes": [
+    [
+      9,
+      102,
+      214,
+      122
+    ]
+  ],
+  "line_ids": [
+    0
+  ],
+  "reading_order": [
+    0.5
+  ],
+  "difficulty": "easy"
+}

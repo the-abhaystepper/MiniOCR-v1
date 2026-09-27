@@ -1,0 +1,34 @@
+{
+  "text": "City: Springfield\nTotal: $42.99\nEmail: john@example.com",
+  "bounding_boxes": [
+    [
+      42,
+      70,
+      181,
+      89
+    ],
+    [
+      12,
+      98,
+      129,
+      116
+    ],
+    [
+      12,
+      126,
+      249,
+      145
+    ]
+  ],
+  "line_ids": [
+    0,
+    1,
+    2
+  ],
+  "reading_order": [
+    0.0,
+    0.5,
+    1.0
+  ],
+  "difficulty": "easy"
+}

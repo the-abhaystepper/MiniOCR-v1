@@ -1,0 +1,34 @@
+{
+  "text": "Email: john@example.com\nDate: 2024-01-15\nTotal: $42.99",
+  "bounding_boxes": [
+    [
+      12,
+      70,
+      236,
+      88
+    ],
+    [
+      40,
+      98,
+      183,
+      111
+    ],
+    [
+      57,
+      126,
+      166,
+      143
+    ]
+  ],
+  "line_ids": [
+    0,
+    1,
+    2
+  ],
+  "reading_order": [
+    0.0,
+    0.5,
+    1.0
+  ],
+  "difficulty": "easy"
+}

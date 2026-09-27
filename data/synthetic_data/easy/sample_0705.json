@@ -1,0 +1,34 @@
+{
+  "text": "ID: ABC-1234\nTotal: $42.99\nAddress: 123 Main St",
+  "bounding_boxes": [
+    [
+      12,
+      76,
+      120,
+      86
+    ],
+    [
+      12,
+      100,
+      129,
+      114
+    ],
+    [
+      22,
+      124,
+      202,
+      135
+    ]
+  ],
+  "line_ids": [
+    0,
+    1,
+    2
+  ],
+  "reading_order": [
+    0.0,
+    0.5,
+    1.0
+  ],
+  "difficulty": "easy"
+}

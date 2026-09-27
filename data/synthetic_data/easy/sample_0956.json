@@ -1,0 +1,18 @@
+{
+  "text": "OCR Benchmark",
+  "bounding_boxes": [
+    [
+      37,
+      105,
+      187,
+      119
+    ]
+  ],
+  "line_ids": [
+    0
+  ],
+  "reading_order": [
+    0.5
+  ],
+  "difficulty": "easy"
+}

@@ -1,0 +1,34 @@
+{
+  "text": "Item: Widget Pro 100\nSubtotal: $149.95\nQty: 5  Price: $29.99",
+  "bounding_boxes": [
+    [
+      14,
+      12,
+      191,
+      32
+    ],
+    [
+      19,
+      37,
+      151,
+      53
+    ],
+    [
+      10,
+      62,
+      157,
+      79
+    ]
+  ],
+  "line_ids": [
+    0,
+    1,
+    2
+  ],
+  "reading_order": [
+    0.0,
+    0.5,
+    1.0
+  ],
+  "difficulty": "medium"
+}

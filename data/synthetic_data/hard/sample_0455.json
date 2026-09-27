@@ -1,0 +1,26 @@
+{
+  "text": "Name: John Doe\nID: ABC-1234",
+  "bounding_boxes": [
+    [
+      12,
+      84,
+      148,
+      98
+    ],
+    [
+      12,
+      112,
+      119,
+      125
+    ]
+  ],
+  "line_ids": [
+    0,
+    1
+  ],
+  "reading_order": [
+    0.0,
+    1.0
+  ],
+  "difficulty": "hard"
+}

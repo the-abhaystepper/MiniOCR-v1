@@ -1,0 +1,50 @@
+{
+  "text": "Tax (8%): $12.00\nGrand Total: $161.95\nCustomer: Acme Corp\nItem: Widget Pro 100\nQty: 5  Price: $29.99",
+  "bounding_boxes": [
+    [
+      20,
+      12,
+      126,
+      28
+    ],
+    [
+      13,
+      35,
+      150,
+      51
+    ],
+    [
+      16,
+      55,
+      206,
+      72
+    ],
+    [
+      11,
+      75,
+      135,
+      89
+    ],
+    [
+      17,
+      99,
+      183,
+      122
+    ]
+  ],
+  "line_ids": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "reading_order": [
+    0.0,
+    0.25,
+    0.5,
+    0.75,
+    1.0
+  ],
+  "difficulty": "medium"
+}

@@ -1,0 +1,50 @@
+{
+  "text": "Customer: Acme Corp\nSubtotal: $149.95\nDate: March 15, 2024\nGrand Total: $161.95\nItem: Widget Pro 100",
+  "bounding_boxes": [
+    [
+      10,
+      12,
+      200,
+      29
+    ],
+    [
+      20,
+      35,
+      139,
+      49
+    ],
+    [
+      8,
+      55,
+      204,
+      77
+    ],
+    [
+      19,
+      81,
+      155,
+      95
+    ],
+    [
+      16,
+      103,
+      184,
+      124
+    ]
+  ],
+  "line_ids": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "reading_order": [
+    0.0,
+    0.25,
+    0.5,
+    0.75,
+    1.0
+  ],
+  "difficulty": "medium"
+}

@@ -1,0 +1,42 @@
+{
+  "text": "Status: Complete\nAddress: 123 Main St\nCity: Springfield\nTotal: $42.99",
+  "bounding_boxes": [
+    [
+      12,
+      60,
+      150,
+      77
+    ],
+    [
+      25,
+      86,
+      198,
+      99
+    ],
+    [
+      49,
+      112,
+      175,
+      129
+    ],
+    [
+      12,
+      138,
+      117,
+      154
+    ]
+  ],
+  "line_ids": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "reading_order": [
+    0.0,
+    0.3333333333333333,
+    0.6666666666666666,
+    1.0
+  ],
+  "difficulty": "hard"
+}

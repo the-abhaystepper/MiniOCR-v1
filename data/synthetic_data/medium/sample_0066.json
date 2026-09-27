@@ -1,0 +1,50 @@
+{
+  "text": "Tax (8%): $12.00\nItem: Widget Pro 100\nCustomer: Acme Corp\nSubtotal: $149.95\nDate: March 15, 2024",
+  "bounding_boxes": [
+    [
+      15,
+      12,
+      150,
+      33
+    ],
+    [
+      14,
+      35,
+      170,
+      53
+    ],
+    [
+      17,
+      60,
+      169,
+      82
+    ],
+    [
+      18,
+      85,
+      140,
+      105
+    ],
+    [
+      11,
+      107,
+      155,
+      121
+    ]
+  ],
+  "line_ids": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "reading_order": [
+    0.0,
+    0.25,
+    0.5,
+    0.75,
+    1.0
+  ],
+  "difficulty": "medium"
+}

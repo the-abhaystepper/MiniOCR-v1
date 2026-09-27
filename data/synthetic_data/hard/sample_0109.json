@@ -1,0 +1,26 @@
+{
+  "text": "Phone: 555-0123\nItem: Widget A",
+  "bounding_boxes": [
+    [
+      48,
+      88,
+      175,
+      100
+    ],
+    [
+      57,
+      112,
+      167,
+      127
+    ]
+  ],
+  "line_ids": [
+    0,
+    1
+  ],
+  "reading_order": [
+    0.0,
+    1.0
+  ],
+  "difficulty": "hard"
+}

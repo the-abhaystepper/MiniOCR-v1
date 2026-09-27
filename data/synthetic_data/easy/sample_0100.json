@@ -1,0 +1,18 @@
+{
+  "text": "Clean Document",
+  "bounding_boxes": [
+    [
+      35,
+      105,
+      189,
+      119
+    ]
+  ],
+  "line_ids": [
+    0
+  ],
+  "reading_order": [
+    0.5
+  ],
+  "difficulty": "easy"
+}

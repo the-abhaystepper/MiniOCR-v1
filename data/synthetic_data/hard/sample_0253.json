@@ -1,0 +1,42 @@
+{
+  "text": "Address: 123 Main St\nCity: Springfield\nItem: Widget A\nID: ABC-1234",
+  "bounding_boxes": [
+    [
+      12,
+      60,
+      185,
+      73
+    ],
+    [
+      12,
+      86,
+      138,
+      103
+    ],
+    [
+      52,
+      112,
+      171,
+      129
+    ],
+    [
+      12,
+      138,
+      123,
+      151
+    ]
+  ],
+  "line_ids": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "reading_order": [
+    0.0,
+    0.3333333333333333,
+    0.6666666666666666,
+    1.0
+  ],
+  "difficulty": "hard"
+}

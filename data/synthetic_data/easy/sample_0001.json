@@ -1,0 +1,26 @@
+{
+  "text": "City: Springfield\nStatus: Complete",
+  "bounding_boxes": [
+    [
+      25,
+      80,
+      214,
+      112
+    ],
+    [
+      10,
+      112,
+      210,
+      144
+    ]
+  ],
+  "line_ids": [
+    0,
+    1
+  ],
+  "reading_order": [
+    0.0,
+    1.0
+  ],
+  "difficulty": "easy"
+}

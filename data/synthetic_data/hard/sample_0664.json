@@ -1,0 +1,34 @@
+{
+  "text": "Date: 2024-01-15\nAddress: 123 Main St\nTotal: $42.99",
+  "bounding_boxes": [
+    [
+      46,
+      73,
+      177,
+      85
+    ],
+    [
+      12,
+      99,
+      180,
+      111
+    ],
+    [
+      61,
+      125,
+      163,
+      139
+    ]
+  ],
+  "line_ids": [
+    0,
+    1,
+    2
+  ],
+  "reading_order": [
+    0.0,
+    0.5,
+    1.0
+  ],
+  "difficulty": "hard"
+}

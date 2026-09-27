@@ -1,0 +1,26 @@
+{
+  "text": "Name: John Doe\nQty: 3",
+  "bounding_boxes": [
+    [
+      59,
+      88,
+      164,
+      99
+    ],
+    [
+      92,
+      112,
+      131,
+      125
+    ]
+  ],
+  "line_ids": [
+    0,
+    1
+  ],
+  "reading_order": [
+    0.0,
+    1.0
+  ],
+  "difficulty": "easy"
+}

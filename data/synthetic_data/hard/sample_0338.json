@@ -1,0 +1,26 @@
+{
+  "text": "City: Springfield\nDate: 2024-01-15",
+  "bounding_boxes": [
+    [
+      46,
+      84,
+      177,
+      102
+    ],
+    [
+      41,
+      112,
+      182,
+      125
+    ]
+  ],
+  "line_ids": [
+    0,
+    1
+  ],
+  "reading_order": [
+    0.0,
+    1.0
+  ],
+  "difficulty": "hard"
+}

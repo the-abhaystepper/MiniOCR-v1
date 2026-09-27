@@ -1,0 +1,50 @@
+{
+  "text": "Qty: 5  Price: $29.99\nInvoice #INV-2024-0042\nItem: Widget Pro 100\nThank you for your business!\nDate: March 15, 2024",
+  "bounding_boxes": [
+    [
+      9,
+      12,
+      147,
+      30
+    ],
+    [
+      12,
+      36,
+      254,
+      52
+    ],
+    [
+      17,
+      57,
+      177,
+      71
+    ],
+    [
+      14,
+      77,
+      188,
+      91
+    ],
+    [
+      17,
+      99,
+      177,
+      119
+    ]
+  ],
+  "line_ids": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "reading_order": [
+    0.0,
+    0.25,
+    0.5,
+    0.75,
+    1.0
+  ],
+  "difficulty": "medium"
+}

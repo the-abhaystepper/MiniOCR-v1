@@ -1,0 +1,42 @@
+{
+  "text": "Name: John Doe\nAddress: 123 Main St\nQty: 3\nStatus: Complete",
+  "bounding_boxes": [
+    [
+      50,
+      60,
+      173,
+      74
+    ],
+    [
+      32,
+      86,
+      192,
+      99
+    ],
+    [
+      89,
+      112,
+      135,
+      128
+    ],
+    [
+      50,
+      138,
+      174,
+      155
+    ]
+  ],
+  "line_ids": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "reading_order": [
+    0.0,
+    0.3333333333333333,
+    0.6666666666666666,
+    1.0
+  ],
+  "difficulty": "hard"
+}

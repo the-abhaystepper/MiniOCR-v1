@@ -1,0 +1,34 @@
+{
+  "text": "Address: 123 Main St\nName: John Doe\nTotal: $42.99",
+  "bounding_boxes": [
+    [
+      35,
+      76,
+      189,
+      88
+    ],
+    [
+      52,
+      100,
+      172,
+      112
+    ],
+    [
+      65,
+      124,
+      158,
+      138
+    ]
+  ],
+  "line_ids": [
+    0,
+    1,
+    2
+  ],
+  "reading_order": [
+    0.0,
+    0.5,
+    1.0
+  ],
+  "difficulty": "hard"
+}

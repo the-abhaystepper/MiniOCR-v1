@@ -1,0 +1,26 @@
+{
+  "text": "Phone: 555-0123\nName: John Doe",
+  "bounding_boxes": [
+    [
+      12,
+      88,
+      136,
+      101
+    ],
+    [
+      53,
+      112,
+      171,
+      125
+    ]
+  ],
+  "line_ids": [
+    0,
+    1
+  ],
+  "reading_order": [
+    0.0,
+    1.0
+  ],
+  "difficulty": "easy"
+}

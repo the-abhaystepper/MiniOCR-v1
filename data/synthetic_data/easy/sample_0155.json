@@ -1,0 +1,34 @@
+{
+  "text": "Zip: 62701\nID: ABC-1234\nItem: Widget A",
+  "bounding_boxes": [
+    [
+      56,
+      70,
+      168,
+      89
+    ],
+    [
+      12,
+      98,
+      154,
+      113
+    ],
+    [
+      35,
+      126,
+      188,
+      146
+    ]
+  ],
+  "line_ids": [
+    0,
+    1,
+    2
+  ],
+  "reading_order": [
+    0.0,
+    0.5,
+    1.0
+  ],
+  "difficulty": "easy"
+}

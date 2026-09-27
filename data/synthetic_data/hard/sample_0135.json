@@ -1,0 +1,42 @@
+{
+  "text": "Status: Complete\nQty: 3\nCity: Springfield\nName: John Doe",
+  "bounding_boxes": [
+    [
+      46,
+      64,
+      177,
+      79
+    ],
+    [
+      90,
+      88,
+      134,
+      103
+    ],
+    [
+      12,
+      112,
+      134,
+      127
+    ],
+    [
+      48,
+      136,
+      175,
+      148
+    ]
+  ],
+  "line_ids": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "reading_order": [
+    0.0,
+    0.3333333333333333,
+    0.6666666666666666,
+    1.0
+  ],
+  "difficulty": "hard"
+}

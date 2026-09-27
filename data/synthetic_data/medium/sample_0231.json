@@ -1,0 +1,50 @@
+{
+  "text": "Date: March 15, 2024\nGrand Total: $161.95\nThank you for your business!\nInvoice #INV-2024-0042\nTax (8%): $12.00",
+  "bounding_boxes": [
+    [
+      10,
+      12,
+      230,
+      30
+    ],
+    [
+      18,
+      37,
+      178,
+      50
+    ],
+    [
+      16,
+      59,
+      174,
+      73
+    ],
+    [
+      12,
+      81,
+      174,
+      97
+    ],
+    [
+      17,
+      101,
+      177,
+      119
+    ]
+  ],
+  "line_ids": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "reading_order": [
+    0.0,
+    0.25,
+    0.5,
+    0.75,
+    1.0
+  ],
+  "difficulty": "medium"
+}

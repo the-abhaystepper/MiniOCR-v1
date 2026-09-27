@@ -1,0 +1,42 @@
+{
+  "text": "Status: Complete\nTotal: $42.99\nCity: Springfield\nName: John Doe",
+  "bounding_boxes": [
+    [
+      40,
+      56,
+      184,
+      74
+    ],
+    [
+      12,
+      84,
+      121,
+      101
+    ],
+    [
+      46,
+      112,
+      178,
+      130
+    ],
+    [
+      12,
+      140,
+      151,
+      154
+    ]
+  ],
+  "line_ids": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "reading_order": [
+    0.0,
+    0.3333333333333333,
+    0.6666666666666666,
+    1.0
+  ],
+  "difficulty": "easy"
+}

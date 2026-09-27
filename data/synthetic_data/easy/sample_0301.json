@@ -1,0 +1,42 @@
+{
+  "text": "Name: John Doe\nItem: Widget A\nQty: 3\nStatus: Complete",
+  "bounding_boxes": [
+    [
+      12,
+      60,
+      167,
+      71
+    ],
+    [
+      34,
+      86,
+      189,
+      100
+    ],
+    [
+      12,
+      112,
+      78,
+      127
+    ],
+    [
+      24,
+      138,
+      200,
+      152
+    ]
+  ],
+  "line_ids": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "reading_order": [
+    0.0,
+    0.3333333333333333,
+    0.6666666666666666,
+    1.0
+  ],
+  "difficulty": "easy"
+}

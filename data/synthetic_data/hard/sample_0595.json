@@ -1,0 +1,42 @@
+{
+  "text": "Email: john@example.com\nStatus: Complete\nItem: Widget A\nCity: Springfield",
+  "bounding_boxes": [
+    [
+      25,
+      64,
+      198,
+      79
+    ],
+    [
+      58,
+      88,
+      165,
+      102
+    ],
+    [
+      63,
+      112,
+      161,
+      126
+    ],
+    [
+      12,
+      136,
+      118,
+      150
+    ]
+  ],
+  "line_ids": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "reading_order": [
+    0.0,
+    0.3333333333333333,
+    0.6666666666666666,
+    1.0
+  ],
+  "difficulty": "hard"
+}

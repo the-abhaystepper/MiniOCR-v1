@@ -1,0 +1,34 @@
+{
+  "text": "Name: John Doe\nDate: 2024-01-15\nTotal: $42.99",
+  "bounding_boxes": [
+    [
+      12,
+      73,
+      133,
+      85
+    ],
+    [
+      12,
+      99,
+      140,
+      110
+    ],
+    [
+      63,
+      125,
+      160,
+      140
+    ]
+  ],
+  "line_ids": [
+    0,
+    1,
+    2
+  ],
+  "reading_order": [
+    0.0,
+    0.5,
+    1.0
+  ],
+  "difficulty": "easy"
+}

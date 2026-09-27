@@ -1,0 +1,26 @@
+{
+  "text": "Status: Complete\nEmail: john@example.com",
+  "bounding_boxes": [
+    [
+      53,
+      88,
+      170,
+      104
+    ],
+    [
+      21,
+      112,
+      203,
+      128
+    ]
+  ],
+  "line_ids": [
+    0,
+    1
+  ],
+  "reading_order": [
+    0.0,
+    1.0
+  ],
+  "difficulty": "hard"
+}

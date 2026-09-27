@@ -1,0 +1,34 @@
+{
+  "text": "Item: Widget A\nEmail: john@example.com\nTotal: $42.99",
+  "bounding_boxes": [
+    [
+      42,
+      76,
+      182,
+      90
+    ],
+    [
+      12,
+      100,
+      242,
+      114
+    ],
+    [
+      12,
+      124,
+      142,
+      137
+    ]
+  ],
+  "line_ids": [
+    0,
+    1,
+    2
+  ],
+  "reading_order": [
+    0.0,
+    0.5,
+    1.0
+  ],
+  "difficulty": "easy"
+}

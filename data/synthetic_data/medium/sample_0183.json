@@ -1,0 +1,42 @@
+{
+  "text": "Date: March 15, 2024\nThank you for your business!\nInvoice #INV-2024-0042\nCustomer: Acme Corp",
+  "bounding_boxes": [
+    [
+      12,
+      12,
+      189,
+      32
+    ],
+    [
+      12,
+      40,
+      215,
+      56
+    ],
+    [
+      20,
+      59,
+      200,
+      73
+    ],
+    [
+      15,
+      81,
+      205,
+      99
+    ]
+  ],
+  "line_ids": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "reading_order": [
+    0.0,
+    0.3333333333333333,
+    0.6666666666666666,
+    1.0
+  ],
+  "difficulty": "medium"
+}

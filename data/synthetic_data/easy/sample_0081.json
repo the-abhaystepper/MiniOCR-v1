@@ -1,0 +1,18 @@
+{
+  "text": "Deep Vision Model",
+  "bounding_boxes": [
+    [
+      8,
+      98,
+      267,
+      126
+    ]
+  ],
+  "line_ids": [
+    0
+  ],
+  "reading_order": [
+    0.5
+  ],
+  "difficulty": "easy"
+}

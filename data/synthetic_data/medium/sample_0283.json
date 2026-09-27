@@ -1,0 +1,42 @@
+{
+  "text": "Qty: 5  Price: $29.99\nThank you for your business!\nInvoice #INV-2024-0042\nItem: Widget Pro 100",
+  "bounding_boxes": [
+    [
+      8,
+      12,
+      174,
+      35
+    ],
+    [
+      18,
+      36,
+      192,
+      50
+    ],
+    [
+      15,
+      57,
+      239,
+      76
+    ],
+    [
+      17,
+      80,
+      195,
+      101
+    ]
+  ],
+  "line_ids": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "reading_order": [
+    0.0,
+    0.3333333333333333,
+    0.6666666666666666,
+    1.0
+  ],
+  "difficulty": "medium"
+}

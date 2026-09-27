@@ -1,0 +1,50 @@
+{
+  "text": "Item: Widget Pro 100\nTax (8%): $12.00\nInvoice #INV-2024-0042\nThank you for your business!\nCustomer: Acme Corp",
+  "bounding_boxes": [
+    [
+      13,
+      12,
+      233,
+      30
+    ],
+    [
+      12,
+      38,
+      140,
+      58
+    ],
+    [
+      19,
+      65,
+      178,
+      78
+    ],
+    [
+      8,
+      82,
+      212,
+      100
+    ],
+    [
+      18,
+      104,
+      173,
+      122
+    ]
+  ],
+  "line_ids": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "reading_order": [
+    0.0,
+    0.25,
+    0.5,
+    0.75,
+    1.0
+  ],
+  "difficulty": "medium"
+}

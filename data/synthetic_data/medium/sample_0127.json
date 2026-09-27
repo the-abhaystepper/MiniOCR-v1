@@ -1,0 +1,50 @@
+{
+  "text": "Thank you for your business!\nTax (8%): $12.00\nCustomer: Acme Corp\nGrand Total: $161.95\nItem: Widget Pro 100",
+  "bounding_boxes": [
+    [
+      15,
+      12,
+      243,
+      33
+    ],
+    [
+      16,
+      39,
+      124,
+      54
+    ],
+    [
+      15,
+      66,
+      172,
+      84
+    ],
+    [
+      19,
+      89,
+      186,
+      107
+    ],
+    [
+      15,
+      110,
+      170,
+      128
+    ]
+  ],
+  "line_ids": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "reading_order": [
+    0.0,
+    0.25,
+    0.5,
+    0.75,
+    1.0
+  ],
+  "difficulty": "medium"
+}

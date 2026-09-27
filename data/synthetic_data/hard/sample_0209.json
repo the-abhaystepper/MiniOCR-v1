@@ -1,0 +1,26 @@
+{
+  "text": "Zip: 62701\nDate: 2024-01-15",
+  "bounding_boxes": [
+    [
+      12,
+      84,
+      106,
+      103
+    ],
+    [
+      34,
+      112,
+      190,
+      127
+    ]
+  ],
+  "line_ids": [
+    0,
+    1
+  ],
+  "reading_order": [
+    0.0,
+    1.0
+  ],
+  "difficulty": "hard"
+}
