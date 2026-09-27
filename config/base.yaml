@@ -1,0 +1,62 @@
+# MiniOCR Configuration
+# Target: ~33M parameter VLM-OCR
+
+model:
+  vocab_size: 2000          # OCR-specific vocabulary size
+  image_size: 224           # Input image size (H=W)
+  patch_size: 16            # 16×16 patches → 14×14 = 196 tokens
+  vision_dim: 256           # ViT hidden dimension
+  vision_depth: 6           # ViT transformer layers
+  vision_heads: 4           # ViT attention heads
+  vision_ffn: 512           # ViT FFN dimension
+  vision_dropout: 0.1
+  grid_size: 14             # Spatial grid (14×14)
+  qformer_queries: 96       # Number of learned Q-Former queries
+  qformer_dim: 384          # Q-Former hidden dimension
+  qformer_depth: 3          # Q-Former transformer layers
+  qformer_heads: 6          # Q-Former attention heads
+  qformer_ffn: 1024         # Q-Former FFN dimension
+  qformer_dropout: 0.1
+  decoder_dim: 384          # Decoder hidden dimension
+  decoder_depth: 8          # Decoder transformer layers
+  decoder_heads: 6          # Decoder attention heads
+  decoder_ffn: 1536         # Decoder FFN dimension
+  decoder_dropout: 0.1
+  max_seq_len: 256          # Maximum sequence length
+
+tokenizer:
+  vocab_size: 2000
+  max_bpe_merges: 1996      # vocab_size - 4 special tokens
+
+training:
+  epochs: 50
+  batch_size: 16
+  learning_rate: 0.0002
+  weight_decay: 0.01
+  warmup_steps: 500
+  grad_clip: 1.0
+  beta1: 0.9
+  beta2: 0.999
+  patience: 10              # Early stopping patience
+
+  # Order supervision (auxiliary loss)
+  lambda_order: 0.1         # Weight for order loss
+
+  # Mixed precision
+  use_amp: true
+  amp_dtype: "bfloat16"     # or "float16"
+
+data:
+  data_dir: "data/synthetic_data"
+  num_easy: 200
+  num_medium: 150
+  num_hard: 100
+  num_document: 100
+  val_split: 0.1
+  test_split: 0.1
+
+logging:
+  log_interval: 50          # Log every N batches
+  eval_interval: 5          # Evaluate every N epochs
+  save_interval: 5          # Save checkpoint every N epochs
+  checkpoint_dir: "checkpoints"
